@@ -13,3 +13,18 @@
 /Users/tarik/Projects/JoiningData/JoiningData/obj/Debug/net6.0/JoiningData.pdb
 /Users/tarik/Projects/JoiningData/JoiningData/obj/Debug/net6.0/JoiningData.genruntimeconfig.cache
 /Users/tarik/Projects/JoiningData/JoiningData/obj/Debug/net6.0/ref/JoiningData.dll
+C:\Users\lband\source\repos\Group Projects\database group project\JoiningData_GroupProject\JoiningData\bin\Debug\net6.0\JoiningData.exe
+C:\Users\lband\source\repos\Group Projects\database group project\JoiningData_GroupProject\JoiningData\bin\Debug\net6.0\JoiningData.deps.json
+C:\Users\lband\source\repos\Group Projects\database group project\JoiningData_GroupProject\JoiningData\bin\Debug\net6.0\JoiningData.runtimeconfig.json
+C:\Users\lband\source\repos\Group Projects\database group project\JoiningData_GroupProject\JoiningData\bin\Debug\net6.0\JoiningData.dll
+C:\Users\lband\source\repos\Group Projects\database group project\JoiningData_GroupProject\JoiningData\bin\Debug\net6.0\ref\JoiningData.dll
+C:\Users\lband\source\repos\Group Projects\database group project\JoiningData_GroupProject\JoiningData\bin\Debug\net6.0\JoiningData.pdb
+C:\Users\lband\source\repos\Group Projects\database group project\JoiningData_GroupProject\JoiningData\obj\Debug\net6.0\JoiningData.csproj.AssemblyReference.cache
+C:\Users\lband\source\repos\Group Projects\database group project\JoiningData_GroupProject\JoiningData\obj\Debug\net6.0\JoiningData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lband\source\repos\Group Projects\database group project\JoiningData_GroupProject\JoiningData\obj\Debug\net6.0\JoiningData.AssemblyInfoInputs.cache
+C:\Users\lband\source\repos\Group Projects\database group project\JoiningData_GroupProject\JoiningData\obj\Debug\net6.0\JoiningData.AssemblyInfo.cs
+C:\Users\lband\source\repos\Group Projects\database group project\JoiningData_GroupProject\JoiningData\obj\Debug\net6.0\JoiningData.csproj.CoreCompileInputs.cache
+C:\Users\lband\source\repos\Group Projects\database group project\JoiningData_GroupProject\JoiningData\obj\Debug\net6.0\JoiningData.dll
+C:\Users\lband\source\repos\Group Projects\database group project\JoiningData_GroupProject\JoiningData\obj\Debug\net6.0\ref\JoiningData.dll
+C:\Users\lband\source\repos\Group Projects\database group project\JoiningData_GroupProject\JoiningData\obj\Debug\net6.0\JoiningData.pdb
+C:\Users\lband\source\repos\Group Projects\database group project\JoiningData_GroupProject\JoiningData\obj\Debug\net6.0\JoiningData.genruntimeconfig.cache

@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "/Users/tarik/Projects/JoiningData/JoiningData/JoiningData.csproj": {}
+    "C:\\Users\\lband\\source\\repos\\Group Projects\\database group project\\JoiningData_GroupProject\\JoiningData\\JoiningData.csproj": {}
   },
   "projects": {
-    "/Users/tarik/Projects/JoiningData/JoiningData/JoiningData.csproj": {
+    "C:\\Users\\lband\\source\\repos\\Group Projects\\database group project\\JoiningData_GroupProject\\JoiningData\\JoiningData.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/tarik/Projects/JoiningData/JoiningData/JoiningData.csproj",
+        "projectUniqueName": "C:\\Users\\lband\\source\\repos\\Group Projects\\database group project\\JoiningData_GroupProject\\JoiningData\\JoiningData.csproj",
         "projectName": "JoiningData",
-        "projectPath": "/Users/tarik/Projects/JoiningData/JoiningData/JoiningData.csproj",
-        "packagesPath": "/Users/tarik/.nuget/packages/",
-        "outputPath": "/Users/tarik/Projects/JoiningData/JoiningData/obj/",
+        "projectPath": "C:\\Users\\lband\\source\\repos\\Group Projects\\database group project\\JoiningData_GroupProject\\JoiningData\\JoiningData.csproj",
+        "packagesPath": "C:\\Users\\lband\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\lband\\source\\repos\\Group Projects\\database group project\\JoiningData_GroupProject\\JoiningData\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/tarik/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\lband\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -52,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.200/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }
