@@ -1,14 +1,15 @@
 ﻿<Properties StartupConfiguration="{A0D9E471-8405-464E-AD69-87390EBDE00C}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="gitignore.txt">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="JoiningData/Program.cs">
     <Files>
-      <File FileName="JoiningData/Program.cs" Line="1" Column="1" />
-      <File FileName="app.config" Line="387" Column="23" />
+      <File FileName="JoiningData/Program.cs" Line="29" Column="2" />
       <File FileName="gitignore.txt" Line="398" Column="10" />
+      <File FileName="JoiningData/CustomerOrder.cs" Line="11" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="JoiningData" expanded="True" selected="True" />
+          <Node name="JoiningData" expanded="True" />
         </State>
       </Pad>
       <Pad Id="MonoDevelop.Debugger.WatchPad">
@@ -16,11 +17,10 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.JoiningData FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.JoiningData PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>

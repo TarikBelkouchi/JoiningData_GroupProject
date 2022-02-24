@@ -1,0 +1,15 @@
+/Users/tarik/Projects/JoiningData/JoiningData/obj/Debug/net6.0/JoiningData.csproj.AssemblyReference.cache
+/Users/tarik/Projects/JoiningData/JoiningData/obj/Debug/net6.0/JoiningData.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tarik/Projects/JoiningData/JoiningData/obj/Debug/net6.0/JoiningData.AssemblyInfoInputs.cache
+/Users/tarik/Projects/JoiningData/JoiningData/obj/Debug/net6.0/JoiningData.AssemblyInfo.cs
+/Users/tarik/Projects/JoiningData/JoiningData/obj/Debug/net6.0/JoiningData.csproj.CoreCompileInputs.cache
+/Users/tarik/Projects/JoiningData/JoiningData/bin/Debug/net6.0/JoiningData
+/Users/tarik/Projects/JoiningData/JoiningData/bin/Debug/net6.0/JoiningData.deps.json
+/Users/tarik/Projects/JoiningData/JoiningData/bin/Debug/net6.0/JoiningData.runtimeconfig.json
+/Users/tarik/Projects/JoiningData/JoiningData/bin/Debug/net6.0/JoiningData.dll
+/Users/tarik/Projects/JoiningData/JoiningData/bin/Debug/net6.0/JoiningData.pdb
+/Users/tarik/Projects/JoiningData/JoiningData/obj/Debug/net6.0/JoiningData.dll
+/Users/tarik/Projects/JoiningData/JoiningData/obj/Debug/net6.0/refint/JoiningData.dll
+/Users/tarik/Projects/JoiningData/JoiningData/obj/Debug/net6.0/JoiningData.pdb
+/Users/tarik/Projects/JoiningData/JoiningData/obj/Debug/net6.0/JoiningData.genruntimeconfig.cache
+/Users/tarik/Projects/JoiningData/JoiningData/obj/Debug/net6.0/ref/JoiningData.dll
